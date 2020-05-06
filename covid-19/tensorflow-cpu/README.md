@@ -13,4 +13,4 @@ docker run -p 8888:8888 kerascpu
 
 ### Reference
 [COVID-Net](https://github.com/lindawangg/COVID-Net)  
-[Docker-Keras-CPU](https://github.com/boxxa/Docker-Keras-CPU))
+[Docker-Keras-CPU](https://github.com/boxxa/Docker-Keras-CPU)  
