@@ -12,5 +12,14 @@ docker run -p 8888:8888 kerascpu
 ```
 
 ### Reference
+
+Implementation
+
 [COVID-Net](https://github.com/lindawangg/COVID-Net)  
-[Docker-Keras-CPU](https://github.com/boxxa/Docker-Keras-CPU)  
+[Docker-Keras-CPU](https://github.com/boxxa/Docker-Keras-CPU) 
+
+The current COVIDx dataset is constructed by the following open source chest radiography datasets:
+
+- https://github.com/ieee8023/covid-chestxray-dataset
+- https://github.com/agchung/Figure1-COVID-chestxray-dataset
+- https://www.kaggle.com/c/rsna-pneumonia-detection-challenge  
