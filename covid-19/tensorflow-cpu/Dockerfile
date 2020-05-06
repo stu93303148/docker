@@ -1,4 +1,4 @@
-# docker-keras - Keras in Docker with Python 3 and TensorFlow on CPU with Jupyter
+# TensorFlow on CPU with Jupyter
 
 FROM ubuntu:18.04
 MAINTAINER Kuoying Wang [stu93303148@gmail.com]
