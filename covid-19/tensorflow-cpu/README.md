@@ -1,4 +1,4 @@
-# Docker-Keras-Jupyter-TensorFlowCPU-Python3
+# TensorFlow-Keras-Jupyter-Python3 on CPU
 
 ### Building
 Clone the repo and build the docker image from the Dockerfile:
